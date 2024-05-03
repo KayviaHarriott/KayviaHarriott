@@ -13,9 +13,6 @@ I'm Kayvia Harriott, a Software Engineer & Front-End Developer with a knack for 
 
 ## Projects 🚀
 
-### Conservation Dashboard 2024
-A mobile-responsive platform designed to offer users valuable insights into conservation efforts. Utilized MUI, TailwindCSS, and Lottie animations to create an engaging user experience.
-
 ### Central Machine Diagnostic 2023
 Developed a client website with Elementor WordPress, ensuring mobile responsiveness and exceeding client expectations within tight deadlines.
 
