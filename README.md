@@ -29,7 +29,6 @@ Led the development of a collaborative platform showcasing climate resilience in
 ## Let's Connect! 🌟
 
 Feel free to explore my projects and reach out if you have any questions or just want to chat! You can find me at:
-- Email: [kayvia@kaythedev.com](mailto:kayvia@kaythedev.com)
 - Website: [kaythedev.com](https://kaythedev.com)
 - LinkedIn: [kayharriott](https://www.linkedin.com/in/kayharriott)
 - GitHub: [kayviaharriott](https://github.com/kayviaharriott)
