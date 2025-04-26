@@ -13,14 +13,7 @@ I'm Kayvia Harriott, a Software Engineer & Front-End Developer with a knack for 
 
 ## Projects 🚀
 
-### Central Machine Diagnostic 2023
-Developed a client website with Elementor WordPress, ensuring mobile responsiveness and exceeding client expectations within tight deadlines.
-
-### Jamaica Sargassum Early Advisory System 2023
-Built a monthly advisory platform offering timely insights into Sargassum trends. Utilized ReactJS, Tailwind CSS, Node.js, and NodeMailer for seamless email communication.
-
-### Caribbean Knowledge Platform 2022
-Led the development of a collaborative platform showcasing climate resilience initiatives. Utilized Django, ReactJS, and MUI components to facilitate informed decision-making.
+-To Be Redone-
 
 ## Education & Courses 🎓
 
@@ -32,21 +25,3 @@ Feel free to explore my projects and reach out if you have any questions or just
 - Website: [kaythedev.com](https://kaythedev.com)
 - LinkedIn: [kayharriott](https://www.linkedin.com/in/kayharriott)
 - GitHub: [kayviaharriott](https://github.com/kayviaharriott)
-
-Happy coding! 🚀
-
-
-<!--
-**KayviaHarriott/KayviaHarriott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
